@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Prince",
+  "base_artist": "春猿火",
+  "createdAt": "2026-03-22T13:41:19.356374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My City (feat. J.I the Prince of N.Y)",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/01_My_City_(feat._J.I_the_Prince_of_N.Y)_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby (Feat. Prince Zimboo)",
+      "artist": "Major Lazer",
+      "has_synced": false,
+      "path": "select/02_Baby_(Feat._Prince_Zimboo)_Major_Lazer.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Song (with Prince)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/03_Love_Song_(with_Prince)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Low (feat. Jay Prince)",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/04_Low_(feat._Jay_Prince)_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Prince Kajuku",
+      "artist": "UFO",
+      "has_synced": true,
+      "path": "select/05_Prince_Kajuku_UFO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Sweet Prince",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/06_My_Sweet_Prince_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Frog Prince",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/07_The_Frog_Prince_Keane.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Prince of Arabia",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/08_Prince_of_Arabia_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Deliver Us (The Prince Of Egypt/Soundtrack Version)",
+      "artist": "Ofra Haza & Eden Riegel",
+      "has_synced": true,
+      "path": "select/09_Deliver_Us_(The_Prince_Of_Egypt_Soundtrack_Version)_Ofra_Haza_&_Eden_Riegel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love...Thy Will Be Done - Prince Mix",
+      "artist": "Martika",
+      "has_synced": false,
+      "path": "select/10_Love...Thy_Will_Be_Done_-_Prince_Mix_Martika.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Prince Among Men",
+      "artist": "Scritti Politti",
+      "has_synced": false,
+      "path": "select/11_Prince_Among_Men_Scritti_Politti.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Prince of Love",
+      "artist": "DJ Sammy",
+      "has_synced": false,
+      "path": "select/12_Prince_of_Love_DJ_Sammy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Prince of Love (a cappella)",
+      "artist": "DJ Sammy feat. Carisma",
+      "has_synced": false,
+      "path": "select/13_Prince_of_Love_(a_cappella)_DJ_Sammy_feat._Carisma.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Prince of Love (a cappella)",
+      "artist": "DJ Sammy",
+      "has_synced": false,
+      "path": "select/14_Prince_of_Love_(a_cappella)_DJ_Sammy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Prince of Popocatapetl",
+      "artist": "The Shamen",
+      "has_synced": false,
+      "path": "select/15_Prince_of_Popocatapetl_The_Shamen.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rise (Jonas Blue & Eden Prince Club Mix)",
+      "artist": "Jonas Blue feat. Jack & Jack",
+      "has_synced": false,
+      "path": "select/16_Rise_(Jonas_Blue_&_Eden_Prince_Club_Mix)_Jonas_Blue_feat._Jack_&_Jack.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rise (Jonas Blue & Eden Prince club mix)",
+      "artist": "Jonas Blue",
+      "has_synced": false,
+      "path": "select/17_Rise_(Jonas_Blue_&_Eden_Prince_club_mix)_Jonas_Blue.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Prince",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_Prince_春猿火.txt"
+    }
+  ]
+}
